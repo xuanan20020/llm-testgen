@@ -12,3 +12,9 @@ then generates and repairs tests iteratively to achieve high branch and line cov
 - Iterative error-repair loop for compiling tests
 - Coverage measurement via JaCoCo / custom Python scripts
 - Achieved **95%+ branch & line coverage** on Apache Commons Lang
+
+---
+
+## 🧾 Citation
+
+This project was developed as part of an ANU coursework research on automated software testing with LLMs, July–Oct 2024.
